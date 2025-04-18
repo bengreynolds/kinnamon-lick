@@ -1,0 +1,10 @@
+COM: 16
+Mode: Random
+
+Reward_delay: 500
+Main_delay: 200
+Max_idle_main: 1000
+Max_idle_reward: 1000
+
+
+Acid_orientation: Reward 1
